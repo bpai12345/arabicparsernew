@@ -71,3 +71,4 @@ validators==0.22.0
 watchdog==3.0.0
 Werkzeug==2.3.7
 zipp==3.17.0
+poppler-utils
